@@ -1,6 +1,6 @@
 # Deep-Transformer-PaperList
 
-As Transformer has become a dominant architecture in NLP, how to increase the capacity of Transformer and make it trainable is research interest.
+As Transformer has become a dominant architecture in NLP, how to increase the capacity of Transformer and make it trainable is a recent research interest.
 This repo focuses on papers related to training a deep Transformer.
 
 ## PaperList
